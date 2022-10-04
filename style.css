@@ -1,0 +1,11 @@
+
+
+figure {
+    float: right
+}
+
+div.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    float: right;
+}
